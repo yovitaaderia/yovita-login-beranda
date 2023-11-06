@@ -1,0 +1,11 @@
+C:\Users\yovit\OneDrive\Documents\PBO\PBO YOVITA\PBO YOVITA\bin\Debug\PBO YOVITA.exe.config
+C:\Users\yovit\OneDrive\Documents\PBO\PBO YOVITA\PBO YOVITA\bin\Debug\PBO YOVITA.exe
+C:\Users\yovit\OneDrive\Documents\PBO\PBO YOVITA\PBO YOVITA\bin\Debug\PBO YOVITA.pdb
+C:\Users\yovit\OneDrive\Documents\PBO\PBO YOVITA\PBO YOVITA\obj\Debug\PBO YOVITA.csproj.AssemblyReference.cache
+C:\Users\yovit\OneDrive\Documents\PBO\PBO YOVITA\PBO YOVITA\obj\Debug\PBO_YOVITA.Form1.resources
+C:\Users\yovit\OneDrive\Documents\PBO\PBO YOVITA\PBO YOVITA\obj\Debug\PBO_YOVITA.Form2.resources
+C:\Users\yovit\OneDrive\Documents\PBO\PBO YOVITA\PBO YOVITA\obj\Debug\PBO_YOVITA.Properties.Resources.resources
+C:\Users\yovit\OneDrive\Documents\PBO\PBO YOVITA\PBO YOVITA\obj\Debug\PBO YOVITA.csproj.GenerateResource.cache
+C:\Users\yovit\OneDrive\Documents\PBO\PBO YOVITA\PBO YOVITA\obj\Debug\PBO YOVITA.csproj.CoreCompileInputs.cache
+C:\Users\yovit\OneDrive\Documents\PBO\PBO YOVITA\PBO YOVITA\obj\Debug\PBO YOVITA.exe
+C:\Users\yovit\OneDrive\Documents\PBO\PBO YOVITA\PBO YOVITA\obj\Debug\PBO YOVITA.pdb
